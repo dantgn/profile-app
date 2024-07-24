@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# Profile App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What is this app aboout?
+
+This is just small React app, a software developer profile where people can get to kenow about you and your programming skills.
+
+Feel free to use it as a template for your personal profile.
+
+## What do you need to install to build it from scratch?
+
+```
+# Create a new react app
+$ npx create-react-app  profile-app
+$ cd my-project
+
+# Install Taiwlind CSS - follow commands and instructions from https://tailwindcss.com/docs/guides/create-react-app
+
+# Get cool icons
+$ npm install tech-stack-icons
+$ npm install font-awesome
+
+# Tooltip feature for tech icons
+$ npm install react-tooltip
+```
+
+## See a demo
+
+A demo of this project is available at: https://profile-app-cyan.vercel.app/
 
 ## Available Scripts
 
